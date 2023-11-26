@@ -3,7 +3,8 @@
 
 #### I’m interested in web development and Computer Science in general
 I'm currently following [The Odin Project](www.theodinproject.com)'s JavaScript Full-Stack developer curriculum
-###### I am also a part-time Computer Science college student
+##### I am also a part-time Computer Science college student
+###### and a full-time English teacher (for now at least)
 
 💞️ I’m looking to collaborate on anything that sparks my interess. As long as I can learn new stuff and have fun, I'm up for it.
 
