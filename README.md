@@ -11,7 +11,8 @@ I'm currently following [The Odin Project](www.theodinproject.com)'s JavaScript 
   
 ## 📫 How to reach me?
 [@greytearsdev](https://twitter.com/greytearsdev) is my X account (which I still don't know how to use)
-<--------- You can also just email me 
+
+You can also email me 
 
 
 ![](https://komarev.com/ghpvc/?username=GreyTearsDev)
