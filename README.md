@@ -6,4 +6,5 @@
 - I'm also a part-time Computer Science college student
 - ...and a full-time English teacher (for now at least)
 
+![](https://komarev.com/ghpvc/?username=GreyTearsDev)
 
