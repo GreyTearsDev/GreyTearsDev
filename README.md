@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=GreyTearsDev)
 - I’m interested in full-stack web development and Computer Science in general
-- I'm currently learning DS&A and JEST
+- I'm currently learning DS&A, TDD, and RUST
 
 <h3 align="center">Technologies I know:</h3>
 <p align="center">
