@@ -14,7 +14,7 @@
 <h3 align="center">Technologies I'm familiar with:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,eclipse,jest" />
+    <img src="https://skillicons.dev/icons?i=java,eclipse,jest,zsh" />
   </a>
 </p>
 
