@@ -4,17 +4,17 @@
 ![](https://komarev.com/ghpvc/?username=GreyTearsDev)
 - I’m interested in full-stack web development and Computer Science in general
 
-<h3 align="center">Technologies I know:</h3>
+<h3 align="center">Technologies I use:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,javascript,webpack,git,visualstudio,github" />
+    <img src="https://skillicons.dev/icons?i=css,html,javascript,webpack,jest,git,visualstudio,github" />
   </a>
 </p>
 
-<h3 align="center">Technologies I'm familiar with:</h3>
+<h3 align="center">Technologies I know:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,eclipse,jest,zsh" />
+    <img src="https://skillicons.dev/icons?i=java,eclipse" />
   </a>
 </p>
 
