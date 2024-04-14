@@ -2,7 +2,7 @@
 <h4 align="center"> a.k.a GreyTearsDev</h4>
 
 ![](https://komarev.com/ghpvc/?username=GreyTearsDev)
-- I’m interested in full-stack web development and Computer Science in general
+<p align="center"> I’m interested in full-stack web development and Computer Science in general </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
