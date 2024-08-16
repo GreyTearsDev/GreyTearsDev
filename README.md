@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Tirso Samalungo 👋</h1>
+<h1 align="center">Hi, I’m Grey 👋</h1>
 <h4 align="center">a.k.a GreyTearsDev</h4>
 
 
